@@ -1,0 +1,15 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    width: 1000px;
+    height: 0 auto;
+}
+
+.content{
+    background-color: rgba(33, 22, 22, 0.70);
+    padding-top: 65px;
+    padding-bottom: 60px;
+    margin-left: calc(50% - 500px);
+}
